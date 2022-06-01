@@ -3,4 +3,4 @@
 // document.getElementById('container').setAttribute('align', 'center');
 
 document.querySelector("img").style="width:150px;border-radius:50%;";
-document.getElementById("container").style="text-align:center";
+document.getElementById("container").style="justify-contant:center";
